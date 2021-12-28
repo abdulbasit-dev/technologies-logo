@@ -3,9 +3,9 @@ This repo contain logos for framworks and libray that i use as refrense for my r
 
 
 ## How to use
--right click on the logo and choose "Open in a new tab"
+- right click on the logo and choose "Open in a new tab"
 - again right click on the image select "Opne in New Tab"
-- copy the link and put to what ever place you went
+- copy the link and put to what ever place you went 👌
 
 ## Contribution 
 - fill free to add new logos via pull request 😊
